@@ -1,0 +1,5 @@
+.vagrant/*
+*.bin
+ubuntu-bionic-18.04-cloudimg-console.log  
+distro/atlassian-confluence-7.1.0-x64.bin 
+
